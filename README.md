@@ -121,6 +121,7 @@ Os testes validam as regras de negócio e a segurança da aplicação.
 * 🧪 Testes automatizados e de carga
 * 🧾 Documentação automatizada via Swagger
 
+
 ---
 
 ## 📦 Checklist de Entrega
@@ -132,6 +133,7 @@ Os testes validam as regras de negócio e a segurança da aplicação.
 * [x] Plano de teste JMeter (`.jmx`) incluso
 * [x] Documentação Swagger acessível
 * [x] `README.md` com instruções claras
+![image](https://github.com/user-attachments/assets/3a36c8e7-20af-4b97-8317-43472e332425)
 
 ---
 
