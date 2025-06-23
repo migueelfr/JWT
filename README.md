@@ -108,7 +108,7 @@ Os testes validam as regras de negócio e a segurança da aplicação.
 ## 📈 Testes de Carga (JMeter)
 
 1. Abra o **Apache JMeter**
-2. Carregue o arquivo `teste-carga.jmx` disponível na raiz do projeto
+2. Carregue o arquivo `Login Stress Test.jmx` disponível na raiz do projeto
 3. Configure as Threads (usuários virtuais) e tempo de execução
 4. Clique em **Start** para iniciar o teste
 
@@ -138,9 +138,7 @@ Os testes validam as regras de negócio e a segurança da aplicação.
 
 ## 👨‍💻 Autor
 
-**Seu Nome Aqui**
-[GitHub](https://github.com/seu-usuario)
-E-mail: [seu.email@exemplo.com](mailto:seu.email@exemplo.com)
+[GitHub](https://github.com/migueelfr)
 
 ---
 
@@ -151,13 +149,4 @@ Este projeto está licenciado sob a licença **MIT**. Consulte o arquivo `LICENS
 ---
 
 ```
-
----
-
-### ✅ O que posso fazer agora pra você?
-- Personalizar com seu **nome**, **GitHub**, **nome do projeto** e outros detalhes?
-- Incluir prints ou gifs de funcionamento da API?
-- Incluir instruções de autenticação com token, se estiver usando JWT?
-
-É só me mandar o que quer alterar ou inserir!
 ```
