@@ -1,4 +1,3 @@
-Claro! Aqui está um `README.md` **mais elaborado, profissional e atrativo**, totalmente alinhado com os critérios do projeto que você compartilhou (Java, Spring Boot, JMeter, H2, etc.):
 
 ---
 
